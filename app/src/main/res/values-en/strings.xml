@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="placa">Placa</string>
+    <string name="marca">Brand</string>
+    <string name="modelo">Model</string>
+    <string name="color">Colour</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clear</string>
+    <string name="amarillo">Yellow</string>
+    <string name="rojo">Red</string>
+    <string name="azul">Blue</string>
+    <string name="registrar">Regist</string>
+    <string name="mensaje_guardado">Car was save Succesfully</string>
+    <string name="error1">The 3 first chars of the licence plate must be letters</string>
+    <string name="error2">The 3 last chars of the licence plate must be numbers</string>
+    <string name="error3">The Field can\'t be empty</string>
+    <string name="error4">The field licence plate must have at least 6 chars</string>
+    <string name="registrar_Carro">Regist of cars</string>
+</resources>
